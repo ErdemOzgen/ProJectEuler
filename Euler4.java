@@ -9,7 +9,7 @@ https://projecteuler.net/problem=4
  *
  *    Description:  problem solution for euler projects 4
  *
- *        Created:  7/8/2018 10:46
+ *        Created:  7/8/2018 16.08
  *       Revision:  none
  *
  *        @Author:  M.Erdem OZGEN
